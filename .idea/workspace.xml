@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5214e316-2dee-4518-a392-66195cdd58c4" name="Changes" comment="Tipe Data Boolean">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TipeDataString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variable.kt" afterDir="false" />
+    <list default="true" id="5214e316-2dee-4518-a392-66195cdd58c4" name="Changes" comment="Tipe Data String">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Arrays.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +42,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.VariableKt">
+  <component name="RunManager" selected="Kotlin.ArraysKt">
+    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysKt" />
+      <module name="BaruBelajar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TipeDataBooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TipeDataBooleanKt" />
       <module name="BaruBelajar" />
@@ -53,13 +59,6 @@
     </configuration>
     <configuration name="TipeDataCharacterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TipeDataCharacterKt" />
-      <module name="BaruBelajar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TipeDataNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataNumberKt" />
       <module name="BaruBelajar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArraysKt" />
         <item itemvalue="Kotlin.VariableKt" />
         <item itemvalue="Kotlin.TipeDataStringKt" />
         <item itemvalue="Kotlin.TipeDataBooleanKt" />
         <item itemvalue="Kotlin.TipeDataCharacterKt" />
-        <item itemvalue="Kotlin.TipeDataNumberKt" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674228836985</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tipe Data String">
+      <created>1674240470704</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674240470704</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +143,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Tipe Data Character" />
     <MESSAGE value="Tipe Data Boolean" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tipe Data Boolean" />
+    <MESSAGE value="Tipe Data String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tipe Data String" />
   </component>
 </project>
