@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5214e316-2dee-4518-a392-66195cdd58c4" name="Changes" comment="math operation">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Comparasion.kt" afterDir="false" />
+    <list default="true" id="5214e316-2dee-4518-a392-66195cdd58c4" name="Changes" comment="comparison">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OperasiBoolean.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ComparasionKt">
+  <component name="RunManager" selected="Kotlin.OperasiBooleanKt">
     <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysKt" />
       <module name="BaruBelajar" />
@@ -64,6 +64,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperasiBooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiBooleanKt" />
+      <module name="BaruBelajar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RangeKt" />
       <module name="BaruBelajar" />
@@ -71,20 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariableKt" />
-      <module name="BaruBelajar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.OperasiBooleanKt" />
         <item itemvalue="Kotlin.ComparasionKt" />
         <item itemvalue="Kotlin.MathOperationKt" />
         <item itemvalue="Kotlin.RangeKt" />
         <item itemvalue="Kotlin.ArraysKt" />
-        <item itemvalue="Kotlin.VariableKt" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674244469169</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="comparison">
+      <created>1674290902563</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674290902563</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +175,7 @@
     <MESSAGE value="Tipe data arrays" />
     <MESSAGE value="Tipe data range" />
     <MESSAGE value="math operation" />
-    <option name="LAST_COMMIT_MESSAGE" value="math operation" />
+    <MESSAGE value="comparison" />
+    <option name="LAST_COMMIT_MESSAGE" value="comparison" />
   </component>
 </project>
