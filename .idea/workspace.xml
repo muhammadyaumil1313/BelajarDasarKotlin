@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5214e316-2dee-4518-a392-66195cdd58c4" name="Changes" comment="When Expression">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ForLoops.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/test.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/test.java" afterDir="false" />
+    <list default="true" id="5214e316-2dee-4518-a392-66195cdd58c4" name="Changes" comment="ForLoop">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhileLoops.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ForLoops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ForLoops.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -45,14 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ForLoopsKt">
-    <configuration name="ComparasionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComparasionKt" />
-      <module name="BaruBelajar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.WhileLoopsKt">
     <configuration name="ForLoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForLoopsKt" />
       <module name="BaruBelajar" />
@@ -81,13 +73,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhileLoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoopsKt" />
+      <module name="BaruBelajar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhileLoopsKt" />
         <item itemvalue="Kotlin.ForLoopsKt" />
         <item itemvalue="Kotlin.WhenExpressionKt" />
         <item itemvalue="Kotlin.IfExpressionKt" />
         <item itemvalue="Kotlin.OperasiBooleanKt" />
-        <item itemvalue="Kotlin.ComparasionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674293519837</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ForLoop">
+      <created>1674301139022</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674301139022</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +209,7 @@
     <MESSAGE value="operasi boolean" />
     <MESSAGE value="if expression" />
     <MESSAGE value="When Expression" />
-    <option name="LAST_COMMIT_MESSAGE" value="When Expression" />
+    <MESSAGE value="ForLoop" />
+    <option name="LAST_COMMIT_MESSAGE" value="ForLoop" />
   </component>
 </project>

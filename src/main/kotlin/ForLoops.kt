@@ -19,4 +19,6 @@ fun main() {
     for (i in 0..ukuranArray){
         println("index $i array : ${names.get(i)}")
     }
+
+    
 }
