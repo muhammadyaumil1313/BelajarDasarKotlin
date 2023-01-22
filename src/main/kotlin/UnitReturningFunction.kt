@@ -1,9 +1,12 @@
 fun main() {
 //    printHello(age=-1, name="Udin")
-    val choosen : String = readln()
-    val number1 : Int = readln().toInt()
-    val number2 : Int = readln().toInt()
-    calculate(choosen = choosen, number2 = number2, number1 =  number1)
+//    val choosen : String = readln()
+//    val number1 : Int = readln().toInt()
+//    val number2 : Int = readln().toInt()
+//    calculate(choosen = choosen, number2 = number2, number1 =  number1)
+    val result = multiplesTwo(2)
+    println("Hasil perkalian : $result")
+    greeting("yaumil")
 }
 fun printHello(name: String?, age: Int?){
     if(name == null){
@@ -35,3 +38,5 @@ fun calculate(choosen : String, number1 : Int, number2: Int) {
         else -> println("Wrong Answer")
     }
 }
+fun multiplesTwo(value: Int) : Int = value * 2
+fun greeting(name : String) = println("Hello $name")
