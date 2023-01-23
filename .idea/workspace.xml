@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5214e316-2dee-4518-a392-66195cdd58c4" name="Changes" comment="unit returning">
+    <list default="true" id="5214e316-2dee-4518-a392-66195cdd58c4" name="Changes" comment="expression function">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functionVarArgs.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/UnitReturningFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/UnitReturningFunction.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.UnitReturningFunctionKt">
+  <component name="RunManager" selected="Kotlin.FunctionVarArgsKt">
     <configuration name="ContinueAndBreakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ContinueAndBreakKt" />
       <module name="BaruBelajar" />
@@ -65,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FunctionVarArgsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionVarArgsKt" />
+      <module name="BaruBelajar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UnitReturningFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UnitReturningFunctionKt" />
       <module name="BaruBelajar" />
@@ -72,20 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoopsKt" />
-      <module name="BaruBelajar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FunctionVarArgsKt" />
         <item itemvalue="Kotlin.UnitReturningFunctionKt" />
         <item itemvalue="Kotlin.FunctionKt" />
         <item itemvalue="Kotlin.ContinueAndBreakKt" />
         <item itemvalue="Kotlin.DoWhileLoopsKt" />
-        <item itemvalue="Kotlin.WhileLoopsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674313824753</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="expression function">
+      <created>1674400569094</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1674400569094</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +256,7 @@
     <MESSAGE value="ContinueAndBreak.kt" />
     <MESSAGE value="Function" />
     <MESSAGE value="unit returning" />
-    <option name="LAST_COMMIT_MESSAGE" value="unit returning" />
+    <MESSAGE value="expression function" />
+    <option name="LAST_COMMIT_MESSAGE" value="expression function" />
   </component>
 </project>
