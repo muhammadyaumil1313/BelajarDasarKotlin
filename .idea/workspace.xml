@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5214e316-2dee-4518-a392-66195cdd58c4" name="Changes" comment="Return if / when">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Recursive.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/RecursiveTail.kt" afterDir="false" />
+    <list default="true" id="5214e316-2dee-4518-a392-66195cdd58c4" name="Changes" comment="recursive tail">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lambda.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,16 +43,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.RecursiveTailKt">
-    <configuration name="ExtentionFUnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExtentionFUnKt" />
+  <component name="RunManager" selected="Kotlin.LambdaKt">
+    <configuration name="InfixNotationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InfixNotationKt" />
       <module name="BaruBelajar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InfixNotationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InfixNotationKt" />
+    <configuration name="LambdaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaKt" />
       <module name="BaruBelajar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LambdaKt" />
         <item itemvalue="Kotlin.RecursiveTailKt" />
         <item itemvalue="Kotlin.RecursiveKt" />
         <item itemvalue="Kotlin.ReturnIfKt" />
         <item itemvalue="Kotlin.InfixNotationKt" />
-        <item itemvalue="Kotlin.ExtentionFUnKt" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +259,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674448527577</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="recursive">
+      <created>1674974080746</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1674974080746</updated>
+    </task>
+    <task id="LOCAL-00025" summary="recursive tail">
+      <created>1674974099168</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1674974099168</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,6 +311,8 @@
     <MESSAGE value="InfixNotation" />
     <MESSAGE value="function scope" />
     <MESSAGE value="Return if / when" />
-    <option name="LAST_COMMIT_MESSAGE" value="Return if / when" />
+    <MESSAGE value="recursive" />
+    <MESSAGE value="recursive tail" />
+    <option name="LAST_COMMIT_MESSAGE" value="recursive tail" />
   </component>
 </project>
