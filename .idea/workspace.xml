@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5214e316-2dee-4518-a392-66195cdd58c4" name="Changes" comment="recursive tail">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lambda.kt" afterDir="false" />
+    <list default="true" id="5214e316-2dee-4518-a392-66195cdd58c4" name="Changes" comment="lamda function">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HigherOrder.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +43,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.LambdaKt">
-    <configuration name="InfixNotationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InfixNotationKt" />
+  <component name="RunManager" selected="Kotlin.HigherOrderKt">
+    <configuration name="HigherOrderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HigherOrderKt" />
       <module name="BaruBelajar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.HigherOrderKt" />
         <item itemvalue="Kotlin.LambdaKt" />
         <item itemvalue="Kotlin.RecursiveTailKt" />
         <item itemvalue="Kotlin.RecursiveKt" />
         <item itemvalue="Kotlin.ReturnIfKt" />
-        <item itemvalue="Kotlin.InfixNotationKt" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674974099168</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="lamda function">
+      <created>1674983190463</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1674983190463</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,7 +295,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial commit" />
     <MESSAGE value="Tipe Data Character" />
     <MESSAGE value="Tipe Data Boolean" />
     <MESSAGE value="Tipe Data String" />
@@ -313,6 +319,7 @@
     <MESSAGE value="Return if / when" />
     <MESSAGE value="recursive" />
     <MESSAGE value="recursive tail" />
-    <option name="LAST_COMMIT_MESSAGE" value="recursive tail" />
+    <MESSAGE value="lamda function" />
+    <option name="LAST_COMMIT_MESSAGE" value="lamda function" />
   </component>
 </project>
